@@ -80,7 +80,7 @@ function fetchBookmarks() {
         bookmarks = [
             {
                 name: 'My LinkedIn Page',
-                url: 'https://www.linkedin.com/in/karolina-maria-dabrowska/',
+                url: 'https://www.linkedin.com/in/ciprian-pirciu/',
             },
         ];
         localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
