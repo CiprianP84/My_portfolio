@@ -187,6 +187,7 @@ body {
   display: flex;
   flex-direction: row;
   margin: 20px 0 0 10px;
+  padding-right: 20px;
 }
 
 .box .year_company {
@@ -253,7 +254,7 @@ body {
 .interests ul li {
   list-style: none;
   color: #333;
-  margin: 10px 0 20px 0;
+  margin: 10px 0 40px 20px;
 }
 
 .interests li .fa {
